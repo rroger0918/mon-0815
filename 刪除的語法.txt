@@ -1,0 +1,7 @@
+往左滑往右滑按鈕
+<div class="row justify-content-center">
+          <div class="col-7 text-center">
+            <button class="customPrevBtn btn btn-primary m-1">往左</button>
+            <button class="customNextBtn btn btn-primary m-1">往右</button>
+          </div>
+</div>
